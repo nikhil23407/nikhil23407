@@ -3,10 +3,11 @@
 ## 🌟 Branding
 
 <p align="center">
-  <img src="A_digital_vector_digital_art_logo_for_Amazon_Web_S.png" width="220" style="border-radius:18px;" />
+  <img src="aws.png" width="220" style="border-radius:18px;" />
   &nbsp;&nbsp;&nbsp;
-  <img src="A_digital_vector_logo_for_%22DevOps%22_features_a_vibr.png" width="220" style="border-radius:18px;" />
+  <img src="devops.png" width="220" style="border-radius:18px;" />
 </p>
+
 
 
 <div align="left" style="
