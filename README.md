@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil R Gowda</h1>
+<h1 align="center">Hi , I'm Nikhil R Gowda</h1>
 <h3 align="center">🚀 AWS DevOps Engineer | Cloud | Automation</h3>
 
 <p align="center">
