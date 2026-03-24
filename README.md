@@ -11,10 +11,10 @@
 
 - 🔭 Currently building **hands-on Cloud & DevOps projects**
 - 🌱 Exploring **advanced AWS, Kubernetes & GitOps**
-- 💬 Ask me about **AWS ☁️ | CI/CD ⚙️ | Automation 🚀**
+- 💬 Ask me about **AWS ☁️ | DevOps ♾️ | Automation 🚀**
 - 📂 My projects: [GitHub Portfolio](https://github.com/nikhil23407)
-- 📫 Reach me: **nikhil23407@gmail.com**
-- 📫 linkedin: **www.linkedin.com/in/nikhil23407**
+- 📧 Reach me: **nikhil23407@gmail.com**
+- 💼 linkedin: **www.linkedin.com/in/nikhil23407**
 
 ---
 
