@@ -14,6 +14,7 @@
 - 💬 Ask me about **AWS ☁️ | CI/CD ⚙️ | Automation 🚀**
 - 📂 My projects: [GitHub Portfolio](https://github.com/nikhil23407)
 - 📫 Reach me: **nikhil23407@gmail.com**
+- 📫 linkedin: **www.linkedin.com/in/nikhil23407**
 
 ---
 
